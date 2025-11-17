@@ -1,0 +1,318 @@
+{
+  "pattern_type": "separated_base",
+  "pattern_value": "sus_",
+  "count": 11,
+  "quality_score": 23.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "min_number": 10,
+    "max_number": 20,
+    "number_range": 10,
+    "consistent_digits": true,
+    "common_digit_count": 2,
+    "count": 11
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "sus_10",
+    "sus_12",
+    "sus_11",
+    "sus_13",
+    "sus_14",
+    "sus_17",
+    "sus_15",
+    "sus_16",
+    "sus_18",
+    "sus_19"
+  ],
+  "accounts": [
+    {
+      "user_id": "667488453",
+      "username": "sus_10",
+      "user_data": {
+        "latest": {
+          "rank": 7222,
+          "score": 696313,
+          "username": "sus_10",
+          "level": 0,
+          "id": 667488453,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488453/"
+    },
+    {
+      "user_id": "667488458",
+      "username": "sus_12",
+      "user_data": {
+        "latest": {
+          "rank": 7241,
+          "score": 695330,
+          "username": "sus_12",
+          "level": 0,
+          "id": 667488458,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488458/"
+    },
+    {
+      "user_id": "667488457",
+      "username": "sus_11",
+      "user_data": {
+        "latest": {
+          "rank": 7242,
+          "score": 695160,
+          "username": "sus_11",
+          "level": 0,
+          "id": 667488457,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488457/"
+    },
+    {
+      "user_id": "667488464",
+      "username": "sus_13",
+      "user_data": {
+        "latest": {
+          "rank": 7248,
+          "score": 694720,
+          "username": "sus_13",
+          "level": 0,
+          "id": 667488464,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488464/"
+    },
+    {
+      "user_id": "667488465",
+      "username": "sus_14",
+      "user_data": {
+        "latest": {
+          "rank": 7250,
+          "score": 694630,
+          "username": "sus_14",
+          "level": 0,
+          "id": 667488465,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488465/"
+    },
+    {
+      "user_id": "667488474",
+      "username": "sus_17",
+      "user_data": {
+        "latest": {
+          "rank": 7258,
+          "score": 693970,
+          "username": "sus_17",
+          "level": 0,
+          "id": 667488474,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/85/f9/85f9ef0b-1882-47a6-987f-a72eb7ea30a9_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/85/f9/85f9ef0b-1882-47a6-987f-a72eb7ea30a9_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/85/f9/85f9ef0b-1882-47a6-987f-a72eb7ea30a9_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/85/f9/85f9ef0b-1882-47a6-987f-a72eb7ea30a9_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488474/"
+    },
+    {
+      "user_id": "667488466",
+      "username": "sus_15",
+      "user_data": {
+        "latest": {
+          "rank": 7259,
+          "score": 693920,
+          "username": "sus_15",
+          "level": 0,
+          "id": 667488466,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/a5/af/a5af9548-dd5e-4ad4-a4a0-d3fcc2716710_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/a5/af/a5af9548-dd5e-4ad4-a4a0-d3fcc2716710_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/a5/af/a5af9548-dd5e-4ad4-a4a0-d3fcc2716710_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/a5/af/a5af9548-dd5e-4ad4-a4a0-d3fcc2716710_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488466/"
+    },
+    {
+      "user_id": "667488471",
+      "username": "sus_16",
+      "user_data": {
+        "latest": {
+          "rank": 7265,
+          "score": 693680,
+          "username": "sus_16",
+          "level": 0,
+          "id": 667488471,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488471/"
+    },
+    {
+      "user_id": "667488475",
+      "username": "sus_18",
+      "user_data": {
+        "latest": {
+          "rank": 7270,
+          "score": 693550,
+          "username": "sus_18",
+          "level": 0,
+          "id": 667488475,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488475/"
+    },
+    {
+      "user_id": "667488480",
+      "username": "sus_19",
+      "user_data": {
+        "latest": {
+          "rank": 7275,
+          "score": 693360,
+          "username": "sus_19",
+          "level": 0,
+          "id": 667488480,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488480/"
+    },
+    {
+      "user_id": "667488481",
+      "username": "sus_20",
+      "user_data": {
+        "latest": {
+          "rank": 7279,
+          "score": 693250,
+          "username": "sus_20",
+          "level": 0,
+          "id": 667488481,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/c8/d1/c8d14b35-4821-4f82-8b78-9c2f792026b5_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488481/"
+    }
+  ]
+}
