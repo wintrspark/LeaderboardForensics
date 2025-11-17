@@ -1,0 +1,157 @@
+{
+  "pattern_type": "base_name",
+  "pattern_value": "goldkasıcam",
+  "count": 5,
+  "quality_score": 21.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "min_number": 1,
+    "max_number": 5,
+    "number_range": 4,
+    "consistent_digits": true,
+    "common_digit_count": 1,
+    "count": 5
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "goldkasıcam4",
+    "goldkasıcam3",
+    "goldkasıcam5",
+    "goldkasıcam2",
+    "goldkasıcam1"
+  ],
+  "accounts": [
+    {
+      "user_id": "667527487",
+      "username": "goldkasıcam4",
+      "user_data": {
+        "latest": {
+          "rank": 274210,
+          "score": 31988,
+          "username": "goldkasıcam4",
+          "level": 0,
+          "id": 667527487,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          686
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667527487/"
+    },
+    {
+      "user_id": "667527469",
+      "username": "goldkasıcam3",
+      "user_data": {
+        "latest": {
+          "rank": 282450,
+          "score": 31055,
+          "username": "goldkasıcam3",
+          "level": 0,
+          "id": 667527469,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          707
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667527469/"
+    },
+    {
+      "user_id": "667527504",
+      "username": "goldkasıcam5",
+      "user_data": {
+        "latest": {
+          "rank": 314501,
+          "score": 27812,
+          "username": "goldkasıcam5",
+          "level": 0,
+          "id": 667527504,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          787
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667527504/"
+    },
+    {
+      "user_id": "667527434",
+      "username": "goldkasıcam2",
+      "user_data": {
+        "latest": {
+          "rank": 318722,
+          "score": 27417,
+          "username": "goldkasıcam2",
+          "level": 0,
+          "id": 667527434,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          797
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667527434/"
+    },
+    {
+      "user_id": "667527388",
+      "username": "goldkasıcam1",
+      "user_data": {
+        "latest": {
+          "rank": 319752,
+          "score": 27321,
+          "username": "goldkasıcam1",
+          "level": 0,
+          "id": 667527388,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          800
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667527388/"
+    }
+  ]
+}
