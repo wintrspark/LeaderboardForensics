@@ -1,0 +1,474 @@
+{
+  "pattern_type": "separated_base",
+  "pattern_value": "myffi_bot",
+  "count": 17,
+  "quality_score": 20.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "min_number": 1,
+    "max_number": 18,
+    "number_range": 17,
+    "consistent_digits": false,
+    "common_digit_count": "mixed",
+    "count": 17
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "Myffi-bot10",
+    "Myffi-bot11",
+    "Myffi-bot12",
+    "Myffi-bot13",
+    "Myffi-bot14",
+    "Myffi-bot15",
+    "myffi-bot18",
+    "Myffi-bot17",
+    "Myffi-bot16",
+    "Myffi-bot2"
+  ],
+  "accounts": [
+    {
+      "user_id": "669323555",
+      "username": "Myffi-bot10",
+      "user_data": {
+        "latest": {
+          "rank": 47237,
+          "score": 157530,
+          "username": "Myffi-bot10",
+          "level": 0,
+          "id": 669323555,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          119
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669323555/"
+    },
+    {
+      "user_id": "669383075",
+      "username": "Myffi-bot11",
+      "user_data": {
+        "latest": {
+          "rank": 61543,
+          "score": 126910,
+          "username": "Myffi-bot11",
+          "level": 0,
+          "id": 669383075,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          154
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669383075/"
+    },
+    {
+      "user_id": "669383078",
+      "username": "Myffi-bot12",
+      "user_data": {
+        "latest": {
+          "rank": 81275,
+          "score": 99780,
+          "username": "Myffi-bot12",
+          "level": 0,
+          "id": 669383078,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          204
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669383078/"
+    },
+    {
+      "user_id": "669383080",
+      "username": "Myffi-bot13",
+      "user_data": {
+        "latest": {
+          "rank": 86667,
+          "score": 94420,
+          "username": "Myffi-bot13",
+          "level": 0,
+          "id": 669383080,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          217
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669383080/"
+    },
+    {
+      "user_id": "669383081",
+      "username": "Myffi-bot14",
+      "user_data": {
+        "latest": {
+          "rank": 87239,
+          "score": 93860,
+          "username": "Myffi-bot14",
+          "level": 0,
+          "id": 669383081,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          219
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669383081/"
+    },
+    {
+      "user_id": "669383082",
+      "username": "Myffi-bot15",
+      "user_data": {
+        "latest": {
+          "rank": 118225,
+          "score": 70920,
+          "username": "Myffi-bot15",
+          "level": 0,
+          "id": 669383082,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          296
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669383082/"
+    },
+    {
+      "user_id": "669407616",
+      "username": "myffi-bot18",
+      "user_data": {
+        "latest": {
+          "rank": 277628,
+          "score": 31600,
+          "username": "myffi-bot18",
+          "level": 0,
+          "id": 669407616,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          695
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669407616/"
+    },
+    {
+      "user_id": "669407612",
+      "username": "Myffi-bot17",
+      "user_data": {
+        "latest": {
+          "rank": 277629,
+          "score": 31600,
+          "username": "Myffi-bot17",
+          "level": 0,
+          "id": 669407612,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          695
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669407612/"
+    },
+    {
+      "user_id": "669407610",
+      "username": "Myffi-bot16",
+      "user_data": {
+        "latest": {
+          "rank": 301552,
+          "score": 29050,
+          "username": "Myffi-bot16",
+          "level": 0,
+          "id": 669407610,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          754
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669407610/"
+    },
+    {
+      "user_id": "669308478",
+      "username": "Myffi-bot2",
+      "user_data": {
+        "latest": {
+          "rank": 17237,
+          "score": 347180,
+          "username": "Myffi-bot2",
+          "level": 0,
+          "id": 669308478,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          44
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669308478/"
+    },
+    {
+      "user_id": "669308491",
+      "username": "Myffi-bot5",
+      "user_data": {
+        "latest": {
+          "rank": 17377,
+          "score": 344940,
+          "username": "Myffi-bot5",
+          "level": 0,
+          "id": 669308491,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/b4/7d/b47d6a76-8280-4c0b-b8a1-881499b3fbd7_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/b4/7d/b47d6a76-8280-4c0b-b8a1-881499b3fbd7_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/b4/7d/b47d6a76-8280-4c0b-b8a1-881499b3fbd7_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/b4/7d/b47d6a76-8280-4c0b-b8a1-881499b3fbd7_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          44
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669308491/"
+    },
+    {
+      "user_id": "669308487",
+      "username": "Myffi-bot4",
+      "user_data": {
+        "latest": {
+          "rank": 17406,
+          "score": 344560,
+          "username": "Myffi-bot4",
+          "level": 0,
+          "id": 669308487,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          44
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669308487/"
+    },
+    {
+      "user_id": "669308473",
+      "username": "Myffi-bot1",
+      "user_data": {
+        "latest": {
+          "rank": 17611,
+          "score": 341630,
+          "username": "Myffi-bot1",
+          "level": 0,
+          "id": 669308473,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/ff/37/ff3700e2-bf2c-457a-a000-b0e06e53449a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          45
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669308473/"
+    },
+    {
+      "user_id": "669323532",
+      "username": "Myffi-bot6",
+      "user_data": {
+        "latest": {
+          "rank": 45780,
+          "score": 162000,
+          "username": "Myffi-bot6",
+          "level": 0,
+          "id": 669323532,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          115
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669323532/"
+    },
+    {
+      "user_id": "669323544",
+      "username": "Myffi-bot8",
+      "user_data": {
+        "latest": {
+          "rank": 46150,
+          "score": 160800,
+          "username": "Myffi-bot8",
+          "level": 0,
+          "id": 669323544,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          116
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669323544/"
+    },
+    {
+      "user_id": "669323551",
+      "username": "Myffi-bot9",
+      "user_data": {
+        "latest": {
+          "rank": 46931,
+          "score": 158430,
+          "username": "Myffi-bot9",
+          "level": 0,
+          "id": 669323551,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          118
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669323551/"
+    },
+    {
+      "user_id": "669323536",
+      "username": "Myffi-bot7",
+      "user_data": {
+        "latest": {
+          "rank": 47014,
+          "score": 158220,
+          "username": "Myffi-bot7",
+          "level": 0,
+          "id": 669323536,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          118
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/669323536/"
+    }
+  ]
+}
