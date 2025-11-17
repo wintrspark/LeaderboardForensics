@@ -1,3 +1,6 @@
+for people invited to this repo, I know this is not quality code, I just care about the effect :3
+
+
 # LeaderboardBD
 A repository dedicated to cataloguing every account ever created on [WWW KoGaMa](https://www.kogama.com), designed to systematically identify and trace bot activity, boosting behaviour, harassment patterns, and other forms of suspicious or inappropriate conduct.
 Flagged accounts are recorded here to support further investigation, reporting, and potential removal.   
