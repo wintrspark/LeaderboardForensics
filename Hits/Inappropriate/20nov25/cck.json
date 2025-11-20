@@ -1,0 +1,95 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "21268330",
+      "username": "Anna animal cock",
+      "normalized_username": "anna animal cock",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "cock"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 239055,
+          "score": 36830,
+          "username": "Anna animal cock",
+          "level": 0,
+          "id": 21268330,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/78/7b/787b159c-bef9-4970-b799-2e175712d18d_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/78/7b/787b159c-bef9-4970-b799-2e175712d18d_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/78/7b/787b159c-bef9-4970-b799-2e175712d18d_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/78/7b/787b159c-bef9-4970-b799-2e175712d18d_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          598
+        ],
+        "meta": {
+          "batch": "235001to240000"
+        }
+      }
+    },
+    {
+      "user_id": "25245884",
+      "username": "nigga ass cock fart",
+      "normalized_username": "nigga ass cock fart",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "ass",
+          "cock",
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 60066,
+          "score": 129400,
+          "username": "nigga ass cock fart",
+          "level": 0,
+          "id": 25245884,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          151
+        ],
+        "meta": {
+          "batch": "60001to65000"
+        }
+      }
+    }
+  ]
+}
