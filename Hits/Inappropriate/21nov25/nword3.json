@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "670306724",
+      "username": "kill me - gay and niggers",
+      "found_slurs": [
+        "niggers"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 759329,
+          "score": 10510,
+          "username": "kill me - gay and niggers",
+          "level": 0,
+          "id": 670306724,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1899
+        ],
+        "meta": {
+          "batch": "755001to760000"
+        }
+      }
+    }
+  ]
+}
