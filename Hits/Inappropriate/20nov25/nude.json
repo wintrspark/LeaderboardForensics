@@ -1,0 +1,49 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "9323010",
+      "username": "saia da bousa nude",
+      "normalized_username": "saia da bousa nude",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nude"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 351702,
+          "score": 24597,
+          "username": "saia da bousa nude",
+          "level": 0,
+          "id": 9323010,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          880
+        ],
+        "meta": {
+          "batch": "350001to355000"
+        }
+      }
+    }
+  ]
+}
