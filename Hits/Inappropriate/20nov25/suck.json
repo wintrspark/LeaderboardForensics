@@ -1,0 +1,181 @@
+{
+  "count": 4,
+  "accounts": [
+    {
+      "user_id": "666865010",
+      "username": "you suck lols",
+      "normalized_username": "you suck lols",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "suck"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 227764,
+          "score": 38672,
+          "username": "you suck lols",
+          "level": 0,
+          "id": 666865010,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/3f/fb/3ffb378f-81f1-486f-83a2-95aebd63ab55_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/3f/fb/3ffb378f-81f1-486f-83a2-95aebd63ab55_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/3f/fb/3ffb378f-81f1-486f-83a2-95aebd63ab55_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/3f/fb/3ffb378f-81f1-486f-83a2-95aebd63ab55_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          570
+        ],
+        "meta": {
+          "batch": "225001to230000"
+        }
+      }
+    },
+    {
+      "user_id": "15306350",
+      "username": "pepe suck",
+      "normalized_username": "pepe suck",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "suck"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 305846,
+          "score": 28645,
+          "username": "pepe suck",
+          "level": 0,
+          "id": 15306350,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          765
+        ],
+        "meta": {
+          "batch": "305001to310000"
+        }
+      }
+    },
+    {
+      "user_id": "21981700",
+      "username": "suck my d",
+      "normalized_username": "suck my d",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "suck"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 399119,
+          "score": 21498,
+          "username": "suck my d",
+          "level": 0,
+          "id": 21981700,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          998
+        ],
+        "meta": {
+          "batch": "395001to400000"
+        }
+      }
+    },
+    {
+      "user_id": "51721617",
+      "username": "u suck boi",
+      "normalized_username": "u suck boi",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "suck"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 480477,
+          "score": 17582,
+          "username": "u suck boi",
+          "level": 0,
+          "id": 51721617,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1202
+        ],
+        "meta": {
+          "batch": "480001to485000"
+        }
+      }
+    }
+  ]
+}
