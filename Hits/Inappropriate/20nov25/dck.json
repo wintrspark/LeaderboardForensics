@@ -4,24 +4,9 @@
     {
       "user_id": "21975601",
       "username": "dick wen",
-      "normalized_username": "dick wen",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "dick"
-        ]
-      },
+      "found_slurs": [
+        "dick"
+      ],
       "user_data": {
         "latest": {
           "rank": 173540,
@@ -48,24 +33,9 @@
     {
       "user_id": "667408112",
       "username": "ᴅɪᴄᴋ",
-      "normalized_username": "dick",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "dick"
-        ]
-      },
+      "found_slurs": [
+        "dick"
+      ],
       "user_data": {
         "latest": {
           "rank": 225126,
@@ -92,24 +62,9 @@
     {
       "user_id": "6190594",
       "username": "you are dick",
-      "normalized_username": "you are dick",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "dick"
-        ]
-      },
+      "found_slurs": [
+        "dick"
+      ],
       "user_data": {
         "latest": {
           "rank": 381119,
@@ -136,24 +91,9 @@
     {
       "user_id": "21611238",
       "username": "poop and dick",
-      "normalized_username": "poop and dick",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "dick"
-        ]
-      },
+      "found_slurs": [
+        "dick"
+      ],
       "user_data": {
         "latest": {
           "rank": 454576,
@@ -180,24 +120,9 @@
     {
       "user_id": "24066151",
       "username": "dick.jpg",
-      "normalized_username": "dick.jpg",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "dick"
-        ]
-      },
+      "found_slurs": [
+        "dick"
+      ],
       "user_data": {
         "latest": {
           "rank": 472061,
@@ -224,24 +149,9 @@
     {
       "user_id": "19620579",
       "username": "Dick grayson Red hood",
-      "normalized_username": "dick grayson red hood",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "dick"
-        ]
-      },
+      "found_slurs": [
+        "dick"
+      ],
       "user_data": {
         "latest": {
           "rank": 54647,
