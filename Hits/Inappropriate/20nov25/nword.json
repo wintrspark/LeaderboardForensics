@@ -1,0 +1,137 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "669486243",
+      "username": "shoot up nigger",
+      "normalized_username": "shoot up nigger",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigger"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 244161,
+          "score": 36010,
+          "username": "shoot up nigger",
+          "level": 0,
+          "id": 669486243,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          611
+        ],
+        "meta": {
+          "batch": "240001to245000"
+        }
+      }
+    },
+    {
+      "user_id": "22943453",
+      "username": "Nіgger",
+      "normalized_username": "nigger",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigger"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 38633,
+          "score": 186564,
+          "username": "Nіgger",
+          "level": 0,
+          "id": 22943453,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          97
+        ],
+        "meta": {
+          "batch": "35001to40000"
+        }
+      }
+    },
+    {
+      "user_id": "51062628",
+      "username": "nigger boy",
+      "normalized_username": "nigger boy",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigger"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 511618,
+          "score": 16424,
+          "username": "nigger boy",
+          "level": 0,
+          "id": 51062628,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1280
+        ],
+        "meta": {
+          "batch": "510001to515000"
+        }
+      }
+    }
+  ]
+}
