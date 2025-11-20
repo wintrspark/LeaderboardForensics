@@ -1,27 +1,41 @@
 {
-  "count": 19,
+  "count": 32,
   "accounts": [
+    {
+      "user_id": "668304372",
+      "username": "fu.ck.michal",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 100868,
+          "score": 82216,
+          "username": "fu.ck.michal",
+          "level": 0,
+          "id": 668304372,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/d2/0d/d20d9f42-664e-409d-bc0e-c28320dfafd8_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/d2/0d/d20d9f42-664e-409d-bc0e-c28320dfafd8_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/d2/0d/d20d9f42-664e-409d-bc0e-c28320dfafd8_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/d2/0d/d20d9f42-664e-409d-bc0e-c28320dfafd8_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          253
+        ],
+        "meta": {
+          "batch": "100001to105000"
+        }
+      }
+    },
     {
       "user_id": "23717955",
       "username": "www.fuck",
-      "normalized_username": "www.fuck",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 108374,
@@ -46,26 +60,40 @@
       }
     },
     {
+      "user_id": "11558006",
+      "username": "m.fvck",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 110717,
+          "score": 75479,
+          "username": "m.fvck",
+          "level": 0,
+          "id": 11558006,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/12/71/1271b7e8-4027-46eb-9f9a-52d5f427b286_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/12/71/1271b7e8-4027-46eb-9f9a-52d5f427b286_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/12/71/1271b7e8-4027-46eb-9f9a-52d5f427b286_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/12/71/1271b7e8-4027-46eb-9f9a-52d5f427b286_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          277
+        ],
+        "meta": {
+          "batch": "110001to115000"
+        }
+      }
+    },
+    {
       "user_id": "15299850",
       "username": "Kitsune As Fuck",
-      "normalized_username": "kitsune as fuck",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 119612,
@@ -92,24 +120,9 @@
     {
       "user_id": "15316776",
       "username": "star fuck 01",
-      "normalized_username": "star fuck 01",
-      "suspicion_score": 3,
-      "patterns": {
-        "ends_with_numbers": true,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 121915,
@@ -134,27 +147,41 @@
       }
     },
     {
+      "user_id": "2215199",
+      "username": "-Fuck_Boy-",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 132921,
+          "score": 63956,
+          "username": "-Fuck_Boy-",
+          "level": 0,
+          "id": 2215199,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/c6/0b/c60bc6d9-7f33-4399-81f6-4709c8be1481_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/c6/0b/c60bc6d9-7f33-4399-81f6-4709c8be1481_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/c6/0b/c60bc6d9-7f33-4399-81f6-4709c8be1481_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/c6/0b/c60bc6d9-7f33-4399-81f6-4709c8be1481_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          333
+        ],
+        "meta": {
+          "batch": "130001to135000"
+        }
+      }
+    },
+    {
       "user_id": "15490998",
       "username": "fuck shit dum",
-      "normalized_username": "fuck shit dum",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck",
-          "shit"
-        ]
-      },
+      "found_slurs": [
+        "fuck",
+        "shit"
+      ],
       "user_data": {
         "latest": {
           "rank": 180018,
@@ -181,24 +208,9 @@
     {
       "user_id": "7367372",
       "username": "uata fuck",
-      "normalized_username": "uata fuck",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 195880,
@@ -225,24 +237,9 @@
     {
       "user_id": "18737806",
       "username": "fuck gun",
-      "normalized_username": "fuck gun",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 235055,
@@ -269,24 +266,9 @@
     {
       "user_id": "13352268",
       "username": "fuck ahmed",
-      "normalized_username": "fuck ahmed",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 239341,
@@ -311,26 +293,156 @@
       }
     },
     {
+      "user_id": "24568482",
+      "username": "FUCK_YOU_ALL",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 239945,
+          "score": 36687,
+          "username": "FUCK_YOU_ALL",
+          "level": 0,
+          "id": 24568482,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/f0/73/f0737d1d-4b60-4276-a75a-b081b835da62_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/f0/73/f0737d1d-4b60-4276-a75a-b081b835da62_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/f0/73/f0737d1d-4b60-4276-a75a-b081b835da62_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/f0/73/f0737d1d-4b60-4276-a75a-b081b835da62_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          600
+        ],
+        "meta": {
+          "batch": "235001to240000"
+        }
+      }
+    },
+    {
+      "user_id": "3152097",
+      "username": "Fuck乂boyღ",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 255735,
+          "score": 34332,
+          "username": "Fuck乂boyღ",
+          "level": 0,
+          "id": 3152097,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/bd/27/bd274f24-8513-4568-9ea5-709ad08104c9_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/bd/27/bd274f24-8513-4568-9ea5-709ad08104c9_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/bd/27/bd274f24-8513-4568-9ea5-709ad08104c9_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/bd/27/bd274f24-8513-4568-9ea5-709ad08104c9_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          640
+        ],
+        "meta": {
+          "batch": "255001to260000"
+        }
+      }
+    },
+    {
+      "user_id": "669269058",
+      "username": "_fuck_boy_",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 257689,
+          "score": 34068,
+          "username": "_fuck_boy_",
+          "level": 0,
+          "id": 669269058,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/06/bb/06bb39db-df7e-4cae-af2e-055ae1ace9d3_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/06/bb/06bb39db-df7e-4cae-af2e-055ae1ace9d3_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/06/bb/06bb39db-df7e-4cae-af2e-055ae1ace9d3_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/06/bb/06bb39db-df7e-4cae-af2e-055ae1ace9d3_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          645
+        ],
+        "meta": {
+          "batch": "255001to260000"
+        }
+      }
+    },
+    {
+      "user_id": "11976944",
+      "username": "f.u.c.k.o.f.f",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 296608,
+          "score": 29558,
+          "username": "f.u.c.k.o.f.f",
+          "level": 0,
+          "id": 11976944,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/9b/df/9bdf0768-2868-416a-8117-ea3f8093909f_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/9b/df/9bdf0768-2868-416a-8117-ea3f8093909f_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/9b/df/9bdf0768-2868-416a-8117-ea3f8093909f_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/9b/df/9bdf0768-2868-416a-8117-ea3f8093909f_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          742
+        ],
+        "meta": {
+          "batch": "295001to300000"
+        }
+      }
+    },
+    {
+      "user_id": "24450665",
+      "username": "darkness_fuck_",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 312765,
+          "score": 27983,
+          "username": "darkness_fuck_",
+          "level": 0,
+          "id": 24450665,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          782
+        ],
+        "meta": {
+          "batch": "310001to315000"
+        }
+      }
+    },
+    {
       "user_id": "668127047",
       "username": "ƒucк Ъσყ",
-      "normalized_username": "fuck sq",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 330076,
@@ -355,26 +467,40 @@
       }
     },
     {
+      "user_id": "23097710",
+      "username": "f   u    c      k",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 348162,
+          "score": 24865,
+          "username": "f   u    c      k",
+          "level": 0,
+          "id": 23097710,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e3/d9/e3d9aec9-64b9-4431-afa7-3f0c78333e95_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e3/d9/e3d9aec9-64b9-4431-afa7-3f0c78333e95_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e3/d9/e3d9aec9-64b9-4431-afa7-3f0c78333e95_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e3/d9/e3d9aec9-64b9-4431-afa7-3f0c78333e95_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          871
+        ],
+        "meta": {
+          "batch": "345001to350000"
+        }
+      }
+    },
+    {
       "user_id": "12662399",
       "username": "-_-Fuck-_-gamer br",
-      "normalized_username": "-_-fuck-_-gamer br",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 40399,
@@ -399,26 +525,40 @@
       }
     },
     {
+      "user_id": "25189630",
+      "username": "დteam__fuck. Khaliდ",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 420929,
+          "score": 20275,
+          "username": "დteam__fuck. Khaliდ",
+          "level": 0,
+          "id": 25189630,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/57/d8/57d80960-b375-4ea1-b49c-47c366ea4089_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/57/d8/57d80960-b375-4ea1-b49c-47c366ea4089_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/57/d8/57d80960-b375-4ea1-b49c-47c366ea4089_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/57/d8/57d80960-b375-4ea1-b49c-47c366ea4089_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1053
+        ],
+        "meta": {
+          "batch": "420001to425000"
+        }
+      }
+    },
+    {
       "user_id": "21155130",
       "username": "what to fuck",
-      "normalized_username": "what to fuck",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 432036,
@@ -443,26 +583,40 @@
       }
     },
     {
+      "user_id": "8063466",
+      "username": "FUCK_Fadhl_LoL",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 443733,
+          "score": 19152,
+          "username": "FUCK_Fadhl_LoL",
+          "level": 0,
+          "id": 8063466,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1110
+        ],
+        "meta": {
+          "batch": "440001to445000"
+        }
+      }
+    },
+    {
       "user_id": "10872720",
       "username": "realy fuck",
-      "normalized_username": "realy fuck",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 444167,
@@ -489,24 +643,9 @@
     {
       "user_id": "667879827",
       "username": "LA._.fuck._.girl",
-      "normalized_username": "la._.fuck._.girl",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 454143,
@@ -533,24 +672,9 @@
     {
       "user_id": "50480533",
       "username": "fuck joie",
-      "normalized_username": "fuck joie",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 482230,
@@ -575,26 +699,40 @@
       }
     },
     {
+      "user_id": "51723082",
+      "username": "WHAT_THE_FUCK-_-",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 483431,
+          "score": 17469,
+          "username": "WHAT_THE_FUCK-_-",
+          "level": 0,
+          "id": 51723082,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1209
+        ],
+        "meta": {
+          "batch": "480001to485000"
+        }
+      }
+    },
+    {
       "user_id": "16903264",
       "username": "144 fuck you",
-      "normalized_username": "144 fuck you",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 485956,
@@ -621,24 +759,9 @@
     {
       "user_id": "667290774",
       "username": "fᴜᴄᴋ.",
-      "normalized_username": "fuck.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 7163,
@@ -663,26 +786,41 @@
       }
     },
     {
+      "user_id": "667516018",
+      "username": "Maaashaaa_fuck",
+      "found_slurs": [
+        "fuck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 8450,
+          "score": 637597,
+          "username": "Maaashaaa_fuck",
+          "level": 0,
+          "id": 667516018,
+          "friend_images": {
+            "original": "https://www.kogstatic.com/gen_images/5f/ab/5fab145d-bd05-41e1-bea1-684f9025aed7.png",
+            "micro": "https://www.kogstatic.com/gen_cache/5f/ab/5fab145d-bd05-41e1-bea1-684f9025aed7_18x18.png",
+            "small": "https://www.kogstatic.com/gen_cache/5f/ab/5fab145d-bd05-41e1-bea1-684f9025aed7_46x46.png",
+            "medium": "https://www.kogstatic.com/gen_cache/5f/ab/5fab145d-bd05-41e1-bea1-684f9025aed7_64x64.png",
+            "large": "https://www.kogstatic.com/gen_cache/5f/ab/5fab145d-bd05-41e1-bea1-684f9025aed7_330x451.png"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          22
+        ],
+        "meta": {
+          "batch": "5001to10000"
+        }
+      }
+    },
+    {
       "user_id": "666915430",
       "username": "FUCK LOVE LAND AND ADOPT ME",
-      "normalized_username": "fuck love land and adopt me",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 507410,
@@ -709,24 +847,9 @@
     {
       "user_id": "50459107",
       "username": "么_Fυƈƙ Gιɾʅ_么",
-      "normalized_username": "yao _fuck girs_yao ",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 71128,
@@ -753,24 +876,9 @@
     {
       "user_id": "50493589",
       "username": "Fuck love 1234576",
-      "normalized_username": "fuck love 1234576",
-      "suspicion_score": 6,
-      "patterns": {
-        "ends_with_numbers": true,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": true,
-        "many_numbers": true,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fuck"
-        ]
-      },
+      "found_slurs": [
+        "fuck"
+      ],
       "user_data": {
         "latest": {
           "rank": 88763,
@@ -794,7 +902,7 @@
         }
       }
     },
-     {
+    {
       "user_id": "15503312",
       "username": ".xXx_fuck._.everything_xXx.",
       "found_slurs": [
