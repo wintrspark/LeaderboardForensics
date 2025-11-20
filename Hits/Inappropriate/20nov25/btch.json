@@ -1,27 +1,41 @@
 {
-  "count": 26,
+  "count": 40,
   "accounts": [
+    {
+      "user_id": "12688244",
+      "username": "that b1tch tho",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 100078,
+          "score": 82746,
+          "username": "that b1tch tho",
+          "level": 0,
+          "id": 12688244,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e4/ab/e4abc3f4-be32-4a38-bdf3-82cb7b8b4213_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e4/ab/e4abc3f4-be32-4a38-bdf3-82cb7b8b4213_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e4/ab/e4abc3f4-be32-4a38-bdf3-82cb7b8b4213_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e4/ab/e4abc3f4-be32-4a38-bdf3-82cb7b8b4213_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          251
+        ],
+        "meta": {
+          "batch": "100001to105000"
+        }
+      }
+    },
     {
       "user_id": "16722445",
       "username": "BITCH MOTHER PUDDING",
-      "normalized_username": "bitch mother pudding",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 100796,
@@ -46,26 +60,40 @@
       }
     },
     {
+      "user_id": "667438673",
+      "username": "Snipe_B1tch",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 101749,
+          "score": 81578,
+          "username": "Snipe_B1tch",
+          "level": 0,
+          "id": 667438673,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/4d/12/4d127118-9724-4aef-8cb7-3cf9ff025a3a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/4d/12/4d127118-9724-4aef-8cb7-3cf9ff025a3a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/4d/12/4d127118-9724-4aef-8cb7-3cf9ff025a3a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/4d/12/4d127118-9724-4aef-8cb7-3cf9ff025a3a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          255
+        ],
+        "meta": {
+          "batch": "100001to105000"
+        }
+      }
+    },
+    {
       "user_id": "51101183",
       "username": "bıtch.boy",
-      "normalized_username": "bitch.boy",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 102815,
@@ -92,24 +120,9 @@
     {
       "user_id": "668914856",
       "username": "ʙɪᴛᴄʜ.",
-      "normalized_username": "bitch.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 13471,
@@ -136,24 +149,9 @@
     {
       "user_id": "669237209",
       "username": "-Bitch-.",
-      "normalized_username": "-bitch-.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 107255,
@@ -180,24 +178,9 @@
     {
       "user_id": "50954203",
       "username": "Hello_Kitty.bitch",
-      "normalized_username": "hello_kitty.bitch",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 111538,
@@ -224,24 +207,9 @@
     {
       "user_id": "24765234",
       "username": ".ʜᴀᴘᴘʏ.ʙɪᴛᴄʜ.",
-      "normalized_username": ".happy.bitch.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 129459,
@@ -268,24 +236,9 @@
     {
       "user_id": "50460236",
       "username": "sarah_bad bitch",
-      "normalized_username": "sarah_bad bitch",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 137135,
@@ -310,26 +263,156 @@
       }
     },
     {
+      "user_id": "668198991",
+      "username": "+KArmAs_A_bItch+",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 211101,
+          "score": 41502,
+          "username": "+KArmAs_A_bItch+",
+          "level": 0,
+          "id": 668198991,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/69/c4/69c4aeab-4ec3-41ac-9308-fb39d8dca2a4_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/69/c4/69c4aeab-4ec3-41ac-9308-fb39d8dca2a4_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/69/c4/69c4aeab-4ec3-41ac-9308-fb39d8dca2a4_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/69/c4/69c4aeab-4ec3-41ac-9308-fb39d8dca2a4_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          528
+        ],
+        "meta": {
+          "batch": "210001to215000"
+        }
+      }
+    },
+    {
+      "user_id": "15870710",
+      "username": "BOSS_BITCH",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 214739,
+          "score": 40865,
+          "username": "BOSS_BITCH",
+          "level": 0,
+          "id": 15870710,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          537
+        ],
+        "meta": {
+          "batch": "210001to215000"
+        }
+      }
+    },
+    {
+      "user_id": "17408207",
+      "username": "im_bitch_pls",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 247694,
+          "score": 35475,
+          "username": "im_bitch_pls",
+          "level": 0,
+          "id": 17408207,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          620
+        ],
+        "meta": {
+          "batch": "245001to250000"
+        }
+      }
+    },
+    {
+      "user_id": "20281971",
+      "username": "litte_bitch",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 29454,
+          "score": 229540,
+          "username": "litte_bitch",
+          "level": 0,
+          "id": 20281971,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/5e/55/5e551492-ec66-49e0-b498-048d295959e7_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/5e/55/5e551492-ec66-49e0-b498-048d295959e7_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/5e/55/5e551492-ec66-49e0-b498-048d295959e7_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/5e/55/5e551492-ec66-49e0-b498-048d295959e7_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          74
+        ],
+        "meta": {
+          "batch": "25001to30000"
+        }
+      }
+    },
+    {
+      "user_id": "51028825",
+      "username": "-weird_bitch-",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 29787,
+          "score": 227688,
+          "username": "-weird_bitch-",
+          "level": 0,
+          "id": 51028825,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/53/62/53624bd0-f3bc-45ea-a4b3-f71f8a8236cc_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/53/62/53624bd0-f3bc-45ea-a4b3-f71f8a8236cc_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/53/62/53624bd0-f3bc-45ea-a4b3-f71f8a8236cc_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/53/62/53624bd0-f3bc-45ea-a4b3-f71f8a8236cc_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          75
+        ],
+        "meta": {
+          "batch": "25001to30000"
+        }
+      }
+    },
+    {
       "user_id": "51439308",
       "username": "that bad bitch 7890",
-      "normalized_username": "that bad bitch 7890",
-      "suspicion_score": 6,
-      "patterns": {
-        "ends_with_numbers": true,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": true,
-        "many_numbers": true,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 274237,
@@ -356,24 +439,9 @@
     {
       "user_id": "50689624",
       "username": "Your_-ugly-_bitch_-",
-      "normalized_username": "your_-ugly-_bitch_-",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 33515,
@@ -400,24 +468,9 @@
     {
       "user_id": "18526996",
       "username": ".yeah.bitch.",
-      "normalized_username": ".yeah.bitch.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 316926,
@@ -442,26 +495,70 @@
       }
     },
     {
+      "user_id": "21161711",
+      "username": "lil_fatnigga_bitch_penis h",
+      "found_slurs": [
+        "bitch",
+        "penis"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 318085,
+          "score": 27478,
+          "username": "lil_fatnigga_bitch_penis h",
+          "level": 0,
+          "id": 21161711,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/9c/749cdb02-6736-41fe-b4d7-f7108e08aceb_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/9c/749cdb02-6736-41fe-b4d7-f7108e08aceb_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/9c/749cdb02-6736-41fe-b4d7-f7108e08aceb_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/9c/749cdb02-6736-41fe-b4d7-f7108e08aceb_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          796
+        ],
+        "meta": {
+          "batch": "315001to320000"
+        }
+      }
+    },
+    {
+      "user_id": "669696733",
+      "username": "little b i t c h",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 320962,
+          "score": 27215,
+          "username": "little b i t c h",
+          "level": 0,
+          "id": 669696733,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/5f/83/5f833967-1261-4ff4-b957-5034866de567_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/5f/83/5f833967-1261-4ff4-b957-5034866de567_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/5f/83/5f833967-1261-4ff4-b957-5034866de567_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/5f/83/5f833967-1261-4ff4-b957-5034866de567_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          803
+        ],
+        "meta": {
+          "batch": "320001to325000"
+        }
+      }
+    },
+    {
       "user_id": "669102650",
       "username": "Sushi twt is a bitch.",
-      "normalized_username": "sushi twt is a bitch.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 327418,
@@ -488,24 +585,9 @@
     {
       "user_id": "50654811",
       "username": "The Cute Bitch",
-      "normalized_username": "the cute bitch",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 334720,
@@ -532,24 +614,9 @@
     {
       "user_id": "19876016",
       "username": "....Sad Bitch....",
-      "normalized_username": "....sad bitch....",
-      "suspicion_score": 3,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": true
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 36502,
@@ -576,24 +643,9 @@
     {
       "user_id": "15204509",
       "username": "Filius bitch",
-      "normalized_username": "filius bitch",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 409495,
@@ -620,25 +672,10 @@
     {
       "user_id": "51544603",
       "username": "that sexy bitch lol 7890",
-      "normalized_username": "that sexy bitch lol 7890",
-      "suspicion_score": 6,
-      "patterns": {
-        "ends_with_numbers": true,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": true,
-        "many_numbers": true,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch",
-          "sexy"
-        ]
-      },
+      "found_slurs": [
+        "bitch",
+        "sexy"
+      ],
       "user_data": {
         "latest": {
           "rank": 418399,
@@ -665,24 +702,9 @@
     {
       "user_id": "22215445",
       "username": "-.little Bitch..",
-      "normalized_username": "-.little bitch..",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 429030,
@@ -709,24 +731,9 @@
     {
       "user_id": "14599260",
       "username": "king in this bitch",
-      "normalized_username": "king in this bitch",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 443381,
@@ -751,26 +758,69 @@
       }
     },
     {
+      "user_id": "666947410",
+      "username": "-Bitch_pleasee-",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 447202,
+          "score": 18992,
+          "username": "-Bitch_pleasee-",
+          "level": 0,
+          "id": 666947410,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/8e/6d/8e6daf45-a392-43dd-8456-1da8171a6112_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/8e/6d/8e6daf45-a392-43dd-8456-1da8171a6112_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/8e/6d/8e6daf45-a392-43dd-8456-1da8171a6112_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/8e/6d/8e6daf45-a392-43dd-8456-1da8171a6112_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1119
+        ],
+        "meta": {
+          "batch": "445001to450000"
+        }
+      }
+    },
+    {
+      "user_id": "20725744",
+      "username": "Bitch_Lasagna142",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 448437,
+          "score": 18935,
+          "username": "Bitch_Lasagna142",
+          "level": 0,
+          "id": 20725744,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1122
+        ],
+        "meta": {
+          "batch": "445001to450000"
+        }
+      }
+    },
+    {
       "user_id": "22008462",
       "username": "AlissonNite metas bitch.10",
-      "normalized_username": "alissonnite metas bitch.10",
-      "suspicion_score": 3,
-      "patterns": {
-        "ends_with_numbers": true,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 460425,
@@ -797,24 +847,9 @@
     {
       "user_id": "21578554",
       "username": "im pregnant bitch",
-      "normalized_username": "im pregnant bitch",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 462135,
@@ -841,24 +876,9 @@
     {
       "user_id": "667177116",
       "username": "bitch-panda",
-      "normalized_username": "bitch-panda",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 495213,
@@ -883,26 +903,40 @@
       }
     },
     {
+      "user_id": "14226531",
+      "username": "black_dragon_BITCH",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 498188,
+          "score": 16907,
+          "username": "black_dragon_BITCH",
+          "level": 0,
+          "id": 14226531,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1246
+        ],
+        "meta": {
+          "batch": "495001to500000"
+        }
+      }
+    },
+    {
       "user_id": "23610153",
       "username": "BiTcH_ bOsS",
-      "normalized_username": "bitch_ boss",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 53780,
@@ -927,27 +961,41 @@
       }
     },
     {
+      "user_id": "9277695",
+      "username": "b i t c h t e a",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 5144,
+          "score": 859989,
+          "username": "b i t c h t e a",
+          "level": 0,
+          "id": 9277695,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/4b/df/4bdf578d-ae95-4d0e-8cf3-8342fffe7384_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/4b/df/4bdf578d-ae95-4d0e-8cf3-8342fffe7384_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/4b/df/4bdf578d-ae95-4d0e-8cf3-8342fffe7384_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/4b/df/4bdf578d-ae95-4d0e-8cf3-8342fffe7384_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          13
+        ],
+        "meta": {
+          "batch": "5001to10000"
+        }
+      }
+    },
+    {
       "user_id": "20297246",
       "username": "bitch ass motherfucker3456",
-      "normalized_username": "bitch ass motherfucker3456",
-      "suspicion_score": 6,
-      "patterns": {
-        "ends_with_numbers": true,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": true,
-        "many_numbers": true,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "ass",
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "ass",
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 506476,
@@ -974,24 +1022,9 @@
     {
       "user_id": "669584274",
       "username": "Its Britney Bitch.",
-      "normalized_username": "its britney bitch.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 69242,
@@ -1018,24 +1051,9 @@
     {
       "user_id": "25407791",
       "username": ".Bitch",
-      "normalized_username": ".bitch",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 71148,
@@ -1060,27 +1078,41 @@
       }
     },
     {
+      "user_id": "23477113",
+      "username": "ღ.B r o k e n  B i t c h.ღ",
+      "found_slurs": [
+        "bitch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 81129,
+          "score": 99951,
+          "username": "ღ.B r o k e n  B i t c h.ღ",
+          "level": 0,
+          "id": 23477113,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/09/b2/09b28b66-e689-4768-933a-7e863aa5b963_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/09/b2/09b28b66-e689-4768-933a-7e863aa5b963_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/09/b2/09b28b66-e689-4768-933a-7e863aa5b963_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/09/b2/09b28b66-e689-4768-933a-7e863aa5b963_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          203
+        ],
+        "meta": {
+          "batch": "80001to85000"
+        }
+      }
+    },
+    {
       "user_id": "24914149",
       "username": "Xx_-ШоКо-_-BiTcH_-xX",
-      "normalized_username": "xx_-shoko-_-bitch_-xx",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch",
-          "xx"
-        ]
-      },
+      "found_slurs": [
+        "bitch",
+        "xx"
+      ],
       "user_data": {
         "latest": {
           "rank": 82355,
@@ -1107,24 +1139,9 @@
     {
       "user_id": "22844818",
       "username": "_.bad._.bitch._",
-      "normalized_username": "_.bad._.bitch._",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "bitch"
-        ]
-      },
+      "found_slurs": [
+        "bitch"
+      ],
       "user_data": {
         "latest": {
           "rank": 92309,
