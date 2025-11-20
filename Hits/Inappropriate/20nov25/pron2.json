@@ -1,27 +1,12 @@
 {
-  "count": 4,
+  "count": 5,
   "accounts": [
     {
       "user_id": "669638942",
       "username": "gay porno pidorasov",
-      "normalized_username": "gay porno pidorasov",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "porno"
-        ]
-      },
+      "found_slurs": [
+        "porno"
+      ],
       "user_data": {
         "latest": {
           "rank": 239772,
@@ -48,24 +33,9 @@
     {
       "user_id": "20398818",
       "username": "porno xxxx",
-      "normalized_username": "porno xxxx",
-      "suspicion_score": 3,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": true
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "porno"
-        ]
-      },
+      "found_slurs": [
+        "porno"
+      ],
       "user_data": {
         "latest": {
           "rank": 34879,
@@ -92,24 +62,9 @@
     {
       "user_id": "51707629",
       "username": "CHICO PORNO.",
-      "normalized_username": "chico porno.",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "porno"
-        ]
-      },
+      "found_slurs": [
+        "porno"
+      ],
       "user_data": {
         "latest": {
           "rank": 384809,
@@ -136,24 +91,9 @@
     {
       "user_id": "668713653",
       "username": "porno.mia khalifa",
-      "normalized_username": "porno.mia khalifa",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "porno"
-        ]
-      },
+      "found_slurs": [
+        "porno"
+      ],
       "user_data": {
         "latest": {
           "rank": 42969,
@@ -174,6 +114,35 @@
         ],
         "meta": {
           "batch": "40001to45000"
+        }
+      }
+    },
+    {
+      "user_id": "11714092",
+      "username": "ПорнО_ХудожниК",
+      "found_slurs": [
+        "porno"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 70946,
+          "score": 112447,
+          "username": "ПорнО_ХудожниК",
+          "level": 0,
+          "id": 11714092,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/65/98/6598dc4c-8d4c-4bef-9c5a-e3213e92963e_18x18.png",
+            "small": "https://www.kogstatic.com/gen_cache/65/98/6598dc4c-8d4c-4bef-9c5a-e3213e92963e_46x46.png",
+            "medium": "https://www.kogstatic.com/gen_cache/65/98/6598dc4c-8d4c-4bef-9c5a-e3213e92963e_64x64.png",
+            "large": "https://www.kogstatic.com/gen_cache/65/98/6598dc4c-8d4c-4bef-9c5a-e3213e92963e_330x451.png"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          178
+        ],
+        "meta": {
+          "batch": "70001to75000"
         }
       }
     }
