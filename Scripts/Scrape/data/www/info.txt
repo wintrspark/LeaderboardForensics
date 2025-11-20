@@ -1,2 +1,2 @@
-The number of accounts that have been catalogued as of Nov 17, '25 (10PM) is 506799.
-Orignal JSON is 513MB. 
+Curent page 1246
+Re-scraping for comprehensive scan.
