@@ -1,28 +1,13 @@
 {
-  "count": 3,
+  "count": 4,
   "accounts": [
     {
       "user_id": "50817300",
       "username": "Retarded Fucking 9 Year Old XD",
-      "normalized_username": "retarded fucking 9 year old xd",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "fucking",
-          "retarded"
-        ]
-      },
+      "found_slurs": [
+        "fucking",
+        "retarded"
+      ],
       "user_data": {
         "latest": {
           "rank": 179723,
@@ -47,26 +32,41 @@
       }
     },
     {
+      "user_id": "19576320",
+      "username": "R E T A R D E D  64",
+      "found_slurs": [
+        "retard",
+        "retarded"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 199423,
+          "score": 43756,
+          "username": "R E T A R D E D  64",
+          "level": 0,
+          "id": 19576320,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/af/82/af821ee0-b7ed-4e03-bbf6-b66438e476c9_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/af/82/af821ee0-b7ed-4e03-bbf6-b66438e476c9_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/af/82/af821ee0-b7ed-4e03-bbf6-b66438e476c9_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/af/82/af821ee0-b7ed-4e03-bbf6-b66438e476c9_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          499
+        ],
+        "meta": {
+          "batch": "195001to200000"
+        }
+      }
+    },
+    {
       "user_id": "50991578",
       "username": "retarded man",
-      "normalized_username": "retarded man",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "retarded"
-        ]
-      },
+      "found_slurs": [
+        "retarded"
+      ],
       "user_data": {
         "latest": {
           "rank": 430800,
@@ -93,24 +93,9 @@
     {
       "user_id": "24344842",
       "username": "retarded h",
-      "normalized_username": "retarded h",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "retarded"
-        ]
-      },
+      "found_slurs": [
+        "retarded"
+      ],
       "user_data": {
         "latest": {
           "rank": 52829,
