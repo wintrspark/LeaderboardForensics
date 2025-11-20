@@ -1,0 +1,138 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "50817300",
+      "username": "Retarded Fucking 9 Year Old XD",
+      "normalized_username": "retarded fucking 9 year old xd",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "fucking",
+          "retarded"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 179723,
+          "score": 48293,
+          "username": "Retarded Fucking 9 Year Old XD",
+          "level": 0,
+          "id": 50817300,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/43/2f/432f628d-8023-494c-8dd3-9f0bbc77acdc_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/43/2f/432f628d-8023-494c-8dd3-9f0bbc77acdc_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/43/2f/432f628d-8023-494c-8dd3-9f0bbc77acdc_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/43/2f/432f628d-8023-494c-8dd3-9f0bbc77acdc_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          450
+        ],
+        "meta": {
+          "batch": "175001to180000"
+        }
+      }
+    },
+    {
+      "user_id": "50991578",
+      "username": "retarded man",
+      "normalized_username": "retarded man",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "retarded"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 430800,
+          "score": 19772,
+          "username": "retarded man",
+          "level": 0,
+          "id": 50991578,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1077
+        ],
+        "meta": {
+          "batch": "430001to435000"
+        }
+      }
+    },
+    {
+      "user_id": "24344842",
+      "username": "retarded h",
+      "normalized_username": "retarded h",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "retarded"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 52829,
+          "score": 144056,
+          "username": "retarded h",
+          "level": 0,
+          "id": 24344842,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/58/70/5870ee4e-8665-46a5-a207-7d083ac881cc_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/58/70/5870ee4e-8665-46a5-a207-7d083ac881cc_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/58/70/5870ee4e-8665-46a5-a207-7d083ac881cc_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/58/70/5870ee4e-8665-46a5-a207-7d083ac881cc_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          133
+        ],
+        "meta": {
+          "batch": "50001to55000"
+        }
+      }
+    }
+  ]
+}
