@@ -1,27 +1,12 @@
 {
-  "count": 6,
+  "count": 9,
   "accounts": [
     {
       "user_id": "25372968",
       "username": "Mr. Sex Cat",
-      "normalized_username": "mr. sex cat",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "sex"
-        ]
-      },
+      "found_slurs": [
+        "sex"
+      ],
       "user_data": {
         "latest": {
           "rank": 121682,
@@ -48,24 +33,9 @@
     {
       "user_id": "20828829",
       "username": "sex Vauran",
-      "normalized_username": "sex vauran",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "sex"
-        ]
-      },
+      "found_slurs": [
+        "sex"
+      ],
       "user_data": {
         "latest": {
           "rank": 142454,
@@ -92,24 +62,9 @@
     {
       "user_id": "15654169",
       "username": "sex with me224",
-      "normalized_username": "sex with me224",
-      "suspicion_score": 3,
-      "patterns": {
-        "ends_with_numbers": true,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "sex"
-        ]
-      },
+      "found_slurs": [
+        "sex"
+      ],
       "user_data": {
         "latest": {
           "rank": 219579,
@@ -136,25 +91,10 @@
     {
       "user_id": "15899724",
       "username": "sex xxx",
-      "normalized_username": "sex xxx",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "sex",
-          "xxx"
-        ]
-      },
+      "found_slurs": [
+        "sex",
+        "xxx"
+      ],
       "user_data": {
         "latest": {
           "rank": 32545,
@@ -181,24 +121,9 @@
     {
       "user_id": "666695290",
       "username": "ramirez the cat sex",
-      "normalized_username": "ramirez the cat sex",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "sex"
-        ]
-      },
+      "found_slurs": [
+        "sex"
+      ],
       "user_data": {
         "latest": {
           "rank": 391359,
@@ -225,24 +150,9 @@
     {
       "user_id": "18646954",
       "username": "poopy pants sex",
-      "normalized_username": "poopy pants sex",
-      "suspicion_score": 2,
-      "patterns": {
-        "ends_with_numbers": false,
-        "contains_bot_keywords": false,
-        "repeated_patterns": false,
-        "sequential_numbers": false,
-        "many_numbers": false,
-        "special_word_combos": false,
-        "generic_names": false,
-        "consecutive_duplicates": false
-      },
-      "content_check": {
-        "has_inappropriate": true,
-        "found_words": [
-          "sex"
-        ]
-      },
+      "found_slurs": [
+        "sex"
+      ],
       "user_data": {
         "latest": {
           "rank": 463398,
@@ -263,6 +173,94 @@
         ],
         "meta": {
           "batch": "460001to465000"
+        }
+      }
+    },
+    {
+      "user_id": "24204566",
+      "username": "ჯאkαnekγ53xჯ-ᴇK-",
+      "found_slurs": [
+        "sex"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 55981,
+          "score": 136622,
+          "username": "ჯאkαnekγ53xჯ-ᴇK-",
+          "level": 0,
+          "id": 24204566,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e6/19/e6194f82-530c-4020-8f10-8f033f5894d1_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e6/19/e6194f82-530c-4020-8f10-8f033f5894d1_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e6/19/e6194f82-530c-4020-8f10-8f033f5894d1_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e6/19/e6194f82-530c-4020-8f10-8f033f5894d1_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          140
+        ],
+        "meta": {
+          "batch": "55001to60000"
+        }
+      }
+    },
+    {
+      "user_id": "14917935",
+      "username": "alina_sex",
+      "found_slurs": [
+        "sex"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 57251,
+          "score": 134197,
+          "username": "alina_sex",
+          "level": 0,
+          "id": 14917935,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          144
+        ],
+        "meta": {
+          "batch": "55001to60000"
+        }
+      }
+    },
+    {
+      "user_id": "50063781",
+      "username": "S e x y Boy12346",
+      "found_slurs": [
+        "sex",
+        "sexy"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 78753,
+          "score": 102630,
+          "username": "S e x y Boy12346",
+          "level": 0,
+          "id": 50063781,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/16/d8/16d8370b-7c74-4a87-ae8b-6829831d3361_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/16/d8/16d8370b-7c74-4a87-ae8b-6829831d3361_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/16/d8/16d8370b-7c74-4a87-ae8b-6829831d3361_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/16/d8/16d8370b-7c74-4a87-ae8b-6829831d3361_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          197
+        ],
+        "meta": {
+          "batch": "75001to80000"
         }
       }
     }
