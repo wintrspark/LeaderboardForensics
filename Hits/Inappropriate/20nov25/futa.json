@@ -1,0 +1,50 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "670297866",
+      "username": "Futanari",
+      "normalized_username": "futanari",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "futanari"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 447008,
+          "score": 19000,
+          "username": "Futanari",
+          "level": 0,
+          "id": 670297866,
+          "friend_images": {
+            "original": "https://www.kogstatic.com/gen_images/bc/1b/bc1bff4c-783c-4fcc-805c-455e7df7e4e4.png",
+            "micro": "https://www.kogstatic.com/gen_cache/bc/1b/bc1bff4c-783c-4fcc-805c-455e7df7e4e4_18x18.png",
+            "small": "https://www.kogstatic.com/gen_cache/bc/1b/bc1bff4c-783c-4fcc-805c-455e7df7e4e4_46x46.png",
+            "medium": "https://www.kogstatic.com/gen_cache/bc/1b/bc1bff4c-783c-4fcc-805c-455e7df7e4e4_64x64.png",
+            "large": "https://www.kogstatic.com/gen_cache/bc/1b/bc1bff4c-783c-4fcc-805c-455e7df7e4e4_330x451.png"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1118
+        ],
+        "meta": {
+          "batch": "445001to450000"
+        }
+      }
+    }
+  ]
+}
