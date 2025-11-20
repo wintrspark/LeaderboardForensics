@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "669777287",
+      "username": "NG7_Nigger.ez.ez",
+      "found_slurs": [
+        "nigger"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 544933,
+          "score": 15348,
+          "username": "NG7_Nigger.ez.ez",
+          "level": 0,
+          "id": 669777287,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/71/7e/717ea52b-a292-480f-8101-a0719faa5e4a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/71/7e/717ea52b-a292-480f-8101-a0719faa5e4a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/71/7e/717ea52b-a292-480f-8101-a0719faa5e4a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/71/7e/717ea52b-a292-480f-8101-a0719faa5e4a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1363
+        ],
+        "meta": {
+          "batch": "540001to545000"
+        }
+      }
+    }
+  ]
+}
