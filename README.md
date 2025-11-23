@@ -100,5 +100,5 @@ It handles sequential pagination, local storage of retrieved pages, and ensures 
 
 ## Credits
 
-- **Zpayer** - foundational codebase for query logic and leaderboard navigation  
-- **placeholder** - ....
+- **Zpayer** - Original creator of the scraper in JS, My work is a port of it into python (*to be more accesssible, albeit slower)   
+- **EJota** - For being the main and almost direct channel to report and take down the accounts. Thank you for the patience & time.
