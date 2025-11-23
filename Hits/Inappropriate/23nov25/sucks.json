@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "15941391",
+      "username": "DC SUCKS",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1063164,
+          "score": 7030,
+          "username": "DC SUCKS",
+          "level": 0,
+          "id": 15941391,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2658
+        ],
+        "meta": {
+          "batch": "1060001to1065000"
+        }
+      }
+    }
+  ]
+}
