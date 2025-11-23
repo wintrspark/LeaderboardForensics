@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "17875736",
+      "username": "Bastard Forever",
+      "found_slurs": [
+        "bastard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1305713,
+          "score": 5450,
+          "username": "Bastard Forever",
+          "level": 0,
+          "id": 17875736,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/d0/df/d0df402f-fe63-4487-8e68-1d2aa07817a1_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/d0/df/d0df402f-fe63-4487-8e68-1d2aa07817a1_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/d0/df/d0df402f-fe63-4487-8e68-1d2aa07817a1_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/d0/df/d0df402f-fe63-4487-8e68-1d2aa07817a1_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3265
+        ],
+        "meta": {
+          "batch": "1305001to1310000"
+        }
+      }
+    }
+  ]
+}
