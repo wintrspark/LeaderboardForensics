@@ -102,3 +102,13 @@ It handles sequential pagination, local storage of retrieved pages, and ensures 
 
 - **Zpayer** - Original creator of the scraper in JS, My work is a port of it into python (*to be more accesssible, albeit slower)   
 - **EJota** - For being the main and almost direct channel to report and take down the accounts. Thank you for the patience & time.
+
+
+---
+
+
+### ⚠️ Disclaimer
+
+All scripts, tools, and filters contained in this repository are provided strictly for research, analysis, and moderation-support purposes.  
+I do not assume responsibility or liability for any misuse of these scripts, including but not limited to stalking, targeted harassment, unauthorised tracking, privacy violations, or any behaviour that infringes on legal or ethical standards.  
+Users are solely responsible for ensuring that their actions comply with applicable laws, platform rules, and ethical guidelines.
