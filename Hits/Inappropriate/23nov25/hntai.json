@@ -1,0 +1,63 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "16281146",
+      "username": "Hentai_Heaven",
+      "found_slurs": [
+        "hentai"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1107194,
+          "score": 6690,
+          "username": "Hentai_Heaven",
+          "level": 0,
+          "id": 16281146,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2768
+        ],
+        "meta": {
+          "batch": "1105001to1110000"
+        }
+      }
+    },
+    {
+      "user_id": "668767309",
+      "username": "ʜᴇɴᴛᴀɪ.",
+      "found_slurs": [
+        "hentai"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1157388,
+          "score": 6332,
+          "username": "ʜᴇɴᴛᴀɪ.",
+          "level": 0,
+          "id": 668767309,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/6a/08/6a084f33-b15c-4b69-82ce-353d790ecdec_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/6a/08/6a084f33-b15c-4b69-82ce-353d790ecdec_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/6a/08/6a084f33-b15c-4b69-82ce-353d790ecdec_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/6a/08/6a084f33-b15c-4b69-82ce-353d790ecdec_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2894
+        ],
+        "meta": {
+          "batch": "1155001to1160000"
+        }
+      }
+    }
+  ]
+}
