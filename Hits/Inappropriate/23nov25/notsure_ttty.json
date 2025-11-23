@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "25189506",
+      "username": "メღ.Kαwαiixs Titty.ღメ",
+      "found_slurs": [
+        "titty"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1435404,
+          "score": 4850,
+          "username": "メღ.Kαwαiixs Titty.ღメ",
+          "level": 0,
+          "id": 25189506,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/7b/d5/7bd5ca56-aa36-41f5-b8f6-b466ddb9d3b4_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/7b/d5/7bd5ca56-aa36-41f5-b8f6-b466ddb9d3b4_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/7b/d5/7bd5ca56-aa36-41f5-b8f6-b466ddb9d3b4_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/7b/d5/7bd5ca56-aa36-41f5-b8f6-b466ddb9d3b4_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3589
+        ],
+        "meta": {
+          "batch": "1435001to1440000"
+        }
+      }
+    }
+  ]
+}
