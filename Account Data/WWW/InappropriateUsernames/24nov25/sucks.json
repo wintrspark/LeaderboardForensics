@@ -1,0 +1,93 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "51208464",
+      "username": "gacha_life_sucks_ass",
+      "found_slurs": [
+        "ass",
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1554783,
+          "score": 4395,
+          "username": "gacha_life_sucks_ass",
+          "level": 0,
+          "id": 51208464,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3887
+        ],
+        "meta": {
+          "batch": "1550001to1555000"
+        }
+      }
+    },
+    {
+      "user_id": "17765945",
+      "username": "Elijah Sucks",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1590676,
+          "score": 4270,
+          "username": "Elijah Sucks",
+          "level": 0,
+          "id": 17765945,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3977
+        ],
+        "meta": {
+          "batch": "1590001to1595000"
+        }
+      }
+    },
+    {
+      "user_id": "20081782",
+      "username": "MaximilianMus Sucks",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1679122,
+          "score": 3982,
+          "username": "MaximilianMus Sucks",
+          "level": 0,
+          "id": 20081782,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4198
+        ],
+        "meta": {
+          "batch": "1675001to1680000"
+        }
+      }
+    }
+  ]
+}
