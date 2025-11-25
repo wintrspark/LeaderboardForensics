@@ -20,6 +20,7 @@ Completeness and reproducibility outrank elegance, ensuring that all retrieved d
 ---
 
 ## Results
+Project & initial scraping tests began on Nov 16th, 2025 - around 2:15AM.
 
 ####  KoGaMa WWW
    ``Sun, 23.11.2025`` : 580 Accounts from <ins>BoostingBots</ins> flag were confirmed to have been deleted/banned.     
@@ -27,22 +28,18 @@ Completeness and reproducibility outrank elegance, ensuring that all retrieved d
 
 ####  KoGaMa BR
 
-**Special Credits to Ejota** for being an incredible help when it comes to clearing out false positives as well as forwarding the reports to moderation in  fashion that brings a quicker response and steps taken against these accounts and users.
+**Special Credits to [<ins>Ejota</ins>](https://kogama.com.br/profile/1176967/)** for being an incredible help when it comes to clearing out false positives as well as forwarding the reports to moderation in  fashion that brings a quicker response and steps taken against these accounts and users.
 
 ---
 
 ## API Method
 
-Scraping is performed through the public leaderboard endpoint:  
-``api/leaderboard/top/``  
+This project heavily relies on ``api/leaderboard/top/``.   
+Since the endpoint enforces a maximum ``count`` of ``400`` per page, the process relies on sequential pagination.   
+Each page is indexed slowly into batches of 5'000, to save up memory and speed up scanning process.     
+Example of an request using a URL builder:  ``{ENDPOINT}?count={COUNT}&page={PAGE}``
 
-Since the endpoint enforces a maximum ``count`` of ``400`` per page, the process relies on sequential pagination. Each page is written to disk immediately for safety and later processing.
-
-Request format:  
-``{ENDPOINT}?count={COUNT}&page={PAGE}``
-
-**Special Credits to __Zpayer__**, as the project is only possible thanks to his original work on [KoGaMaSearch](https://github.com/RandomUser15456/KoGaMa-Search).  
-Initial scrape launched: **November 16th, 3:42 AM**.
+**Special Credits to [<ins>Zpayer</ins>](https://github.com/RandomUser15456)**, as the project is only possible thanks to his original work on [KoGaMaSearch](https://github.com/RandomUser15456/KoGaMa-Search).  
 
 ---
 
@@ -117,9 +114,10 @@ It handles sequential pagination, local storage of retrieved pages, and ensures 
 
 ## Credits
 
-- **Zpayer** – Author of the original scraping approach implemented in Node.js. This project adapts that foundation into Python to broaden accessibility, even if performance differs.   
-- **EJota** – Primary and almost-direct channel to report flagged accounts, huge help during the entire project.
+- **[<ins>Zpayer</ins>](https://github.com/RandomUser15456)** – Author of the original scraping approach implemented in Node.js. This project adapts that foundation into Python to broaden accessibility, even if performance differs.   
+- **[<ins>Ejota</ins>](https://kogama.com.br/profile/1176967/)** – Primary and almost-direct channel to report flagged accounts, huge help during the entire project.
 
+Both of those people I consider friends, and I appreciate the help and time they provided.
 
 
 ---
