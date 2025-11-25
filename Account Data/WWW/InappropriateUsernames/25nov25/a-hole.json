@@ -1,0 +1,65 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "15294591",
+      "username": "magical ass hole",
+      "found_slurs": [
+        "ass",
+        "asshole"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2040703,
+          "score": 3080,
+          "username": "magical ass hole",
+          "level": 0,
+          "id": 15294591,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5102
+        ],
+        "meta": {
+          "batch": "2040001to2045000"
+        }
+      }
+    },
+    {
+      "user_id": "19818013",
+      "username": "Your a Fucking Asshole",
+      "found_slurs": [
+        "asshole",
+        "fucking"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2095190,
+          "score": 2970,
+          "username": "Your a Fucking Asshole",
+          "level": 0,
+          "id": 19818013,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5238
+        ],
+        "meta": {
+          "batch": "2095001to2100000"
+        }
+      }
+    }
+  ]
+}
