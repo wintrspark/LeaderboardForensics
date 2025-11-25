@@ -83,6 +83,9 @@ This collection functions as an organised repository for filtering numerically-t
 #### **Note:**  
 > The filtering system has been refined and rewritten multiple times throughout the project’s development. While the tools aim for high reliability, **complete accuracy in detecting bot-like behaviour or inappropriate usernames cannot be guaranteed**. All results should be treated as indicators, not definitive classifications.
 
+#### **Note 2:**  
+> Only the username-based filters were published. The scripts meassuring account behaviours are and WILL remain private for security reasons.
+
 ### `Scripts/Filters/seq.py`
 A specialised utility responsible for identifying and grouping accounts whose usernames are formed from pure or near-pure numeric sequences.  
 It acts as the primary classifier for entries destined for `SequentialAccs`.
