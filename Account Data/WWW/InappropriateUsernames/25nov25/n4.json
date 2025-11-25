@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "13535061",
+      "username": "dirty niggers",
+      "found_slurs": [
+        "niggers"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2065631,
+          "score": 3030,
+          "username": "dirty niggers",
+          "level": 0,
+          "id": 13535061,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5165
+        ],
+        "meta": {
+          "batch": "2065001to2070000"
+        }
+      }
+    }
+  ]
+}
