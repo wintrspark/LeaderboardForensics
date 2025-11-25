@@ -1,0 +1,122 @@
+{
+  "count": 4,
+  "accounts": [
+    {
+      "user_id": "16243559",
+      "username": "logan paul sucks",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1792140,
+          "score": 3660,
+          "username": "logan paul sucks",
+          "level": 0,
+          "id": 16243559,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4481
+        ],
+        "meta": {
+          "batch": "1790001to1795000"
+        }
+      }
+    },
+    {
+      "user_id": "18307184",
+      "username": "_-_fortnite sucks_-_",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1908073,
+          "score": 3370,
+          "username": "_-_fortnite sucks_-_",
+          "level": 0,
+          "id": 18307184,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4771
+        ],
+        "meta": {
+          "batch": "1905001to1910000"
+        }
+      }
+    },
+    {
+      "user_id": "15617320",
+      "username": "sucks dick",
+      "found_slurs": [
+        "dick",
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1912852,
+          "score": 3360,
+          "username": "sucks dick",
+          "level": 0,
+          "id": 15617320,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4783
+        ],
+        "meta": {
+          "batch": "1910001to1915000"
+        }
+      }
+    },
+    {
+      "user_id": "50433457",
+      "username": "YOONGI SUCKS",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1981894,
+          "score": 3201,
+          "username": "YOONGI SUCKS",
+          "level": 0,
+          "id": 50433457,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4955
+        ],
+        "meta": {
+          "batch": "1980001to1985000"
+        }
+      }
+    }
+  ]
+}
