@@ -105,7 +105,7 @@ It handles sequential pagination, local storage of retrieved pages, and ensures 
 ## Credits
 
 - **Zpayer** – Author of the original scraping approach implemented in Node.js. This project adapts that foundation into Python to broaden accessibility, even if performance differs.   
-- **EJota** – Acting as the primary liaison for account reporting and escalation within the moderation environment. 
+- **EJota** – Primary and almost-direct channel to report flagged accounts, huge help during the entire project.
 
 
 
