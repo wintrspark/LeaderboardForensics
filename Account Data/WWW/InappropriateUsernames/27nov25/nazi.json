@@ -1,0 +1,92 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "25073448",
+      "username": "Nazi Adolf Hitler",
+      "found_slurs": [
+        "nazi"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2254205,
+          "score": 2687,
+          "username": "Nazi Adolf Hitler",
+          "level": 0,
+          "id": 25073448,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5636
+        ],
+        "meta": {
+          "batch": "2250001to2255000"
+        }
+      }
+    },
+    {
+      "user_id": "21012242",
+      "username": "Nazi Scoop",
+      "found_slurs": [
+        "nazi"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2306162,
+          "score": 2601,
+          "username": "Nazi Scoop",
+          "level": 0,
+          "id": 21012242,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/57/a1/57a163f6-3143-4415-a3f7-c3525c96f394_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/57/a1/57a163f6-3143-4415-a3f7-c3525c96f394_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/57/a1/57a163f6-3143-4415-a3f7-c3525c96f394_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/57/a1/57a163f6-3143-4415-a3f7-c3525c96f394_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5766
+        ],
+        "meta": {
+          "batch": "2305001to2310000"
+        }
+      }
+    },
+    {
+      "user_id": "668036828",
+      "username": "-1-NAZ-1-",
+      "found_slurs": [
+        "nazi"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2501595,
+          "score": 2320,
+          "username": "-1-NAZ-1-",
+          "level": 0,
+          "id": 668036828,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          6254
+        ],
+        "meta": {
+          "batch": "2500001to2505000"
+        }
+      }
+    }
+  ]
+}
