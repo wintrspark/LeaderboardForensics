@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "669268399",
+      "username": "swastika mrhz",
+      "found_slurs": [
+        "swastika"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3119358,
+          "score": 1690,
+          "username": "swastika mrhz",
+          "level": 0,
+          "id": 669268399,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/52/a8/52a898b5-4549-4adf-ab1d-601837fd64ae_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/52/a8/52a898b5-4549-4adf-ab1d-601837fd64ae_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/52/a8/52a898b5-4549-4adf-ab1d-601837fd64ae_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/52/a8/52a898b5-4549-4adf-ab1d-601837fd64ae_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7799
+        ],
+        "meta": {
+          "batch": "3115001to3120000"
+        }
+      }
+    }
+  ]
+}
