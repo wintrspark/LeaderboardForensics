@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "21740646",
+      "username": "-creampie-",
+      "found_slurs": [
+        "creampie"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2702390,
+          "score": 2080,
+          "username": "-creampie-",
+          "level": 0,
+          "id": 21740646,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/41/c9/41c91743-dba1-4999-a164-6720b74ecb94_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/41/c9/41c91743-dba1-4999-a164-6720b74ecb94_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/41/c9/41c91743-dba1-4999-a164-6720b74ecb94_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/41/c9/41c91743-dba1-4999-a164-6720b74ecb94_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          6756
+        ],
+        "meta": {
+          "batch": "2700001to2705000"
+        }
+      }
+    }
+  ]
+}
