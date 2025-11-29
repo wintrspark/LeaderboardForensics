@@ -1,0 +1,36 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "14332658",
+      "username": "white nigger",
+      "found_slurs": [
+        "nigger",
+        "white",
+        "whitenigger"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3033300,
+          "score": 1761,
+          "username": "white nigger",
+          "level": 0,
+          "id": 14332658,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7584
+        ],
+        "meta": {
+          "batch": "3030001to3035000"
+        }
+      }
+    }
+  ]
+}
