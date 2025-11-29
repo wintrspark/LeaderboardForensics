@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "15830540",
+      "username": "titty itty",
+      "found_slurs": [
+        "titty"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2969353,
+          "score": 1820,
+          "username": "titty itty",
+          "level": 0,
+          "id": 15830540,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7424
+        ],
+        "meta": {
+          "batch": "2965001to2970000"
+        }
+      }
+    }
+  ]
+}
