@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "16690009",
+      "username": "clit",
+      "found_slurs": [
+        "clit"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3202411,
+          "score": 1630,
+          "username": "clit",
+          "level": 0,
+          "id": 16690009,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          8007
+        ],
+        "meta": {
+          "batch": "3200001to3205000"
+        }
+      }
+    }
+  ]
+}
