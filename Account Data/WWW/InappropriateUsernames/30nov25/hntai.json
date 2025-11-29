@@ -1,0 +1,63 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "17008094",
+      "username": "H E N T A I 2",
+      "found_slurs": [
+        "hentai"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3136463,
+          "score": 1680,
+          "username": "H E N T A I 2",
+          "level": 0,
+          "id": 17008094,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7842
+        ],
+        "meta": {
+          "batch": "3135001to3140000"
+        }
+      }
+    },
+    {
+      "user_id": "20412463",
+      "username": "Hentai.group Admen",
+      "found_slurs": [
+        "hentai"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3391656,
+          "score": 1496,
+          "username": "Hentai.group Admen",
+          "level": 0,
+          "id": 20412463,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          8480
+        ],
+        "meta": {
+          "batch": "3390001to3395000"
+        }
+      }
+    }
+  ]
+}
