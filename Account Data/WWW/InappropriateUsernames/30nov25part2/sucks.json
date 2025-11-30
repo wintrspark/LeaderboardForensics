@@ -1,0 +1,150 @@
+{
+  "count": 5,
+  "accounts": [
+    {
+      "user_id": "19605542",
+      "username": "lyman sucks",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3741495,
+          "score": 1290,
+          "username": "lyman sucks",
+          "level": 0,
+          "id": 19605542,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9354
+        ],
+        "meta": {
+          "batch": "3740001to3745000"
+        }
+      }
+    },
+    {
+      "user_id": "18072194",
+      "username": "Maddy-sucks-as-well99",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3829345,
+          "score": 1245,
+          "username": "Maddy-sucks-as-well99",
+          "level": 0,
+          "id": 18072194,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9574
+        ],
+        "meta": {
+          "batch": "3825001to3830000"
+        }
+      }
+    },
+    {
+      "user_id": "21782574",
+      "username": "Chad Wild Clay sucks",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3850660,
+          "score": 1234,
+          "username": "Chad Wild Clay sucks",
+          "level": 0,
+          "id": 21782574,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9627
+        ],
+        "meta": {
+          "batch": "3850001to3855000"
+        }
+      }
+    },
+    {
+      "user_id": "24304204",
+      "username": "meera sucks",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3921496,
+          "score": 1200,
+          "username": "meera sucks",
+          "level": 0,
+          "id": 24304204,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9804
+        ],
+        "meta": {
+          "batch": "3920001to3925000"
+        }
+      }
+    },
+    {
+      "user_id": "16039939",
+      "username": "FOXY SUCKS",
+      "found_slurs": [
+        "sucks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3928610,
+          "score": 1200,
+          "username": "FOXY SUCKS",
+          "level": 0,
+          "id": 16039939,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9822
+        ],
+        "meta": {
+          "batch": "3925001to3930000"
+        }
+      }
+    }
+  ]
+}
