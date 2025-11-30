@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "9888589",
+      "username": "BOOB NOOB",
+      "found_slurs": [
+        "boob"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3714563,
+          "score": 1303,
+          "username": "BOOB NOOB",
+          "level": 0,
+          "id": 9888589,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9287
+        ],
+        "meta": {
+          "batch": "3710001to3715000"
+        }
+      }
+    }
+  ]
+}
