@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "670276262",
+      "username": "RETARD EXTERMINATOR",
+      "found_slurs": [
+        "retard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3754961,
+          "score": 1280,
+          "username": "RETARD EXTERMINATOR",
+          "level": 0,
+          "id": 670276262,
+          "friend_images": {
+            "original": "https://www.kogstatic.com/gen_images/75/e0/75e0959a-edf4-43a6-ad06-3a6f39b25e6c.png",
+            "micro": "https://www.kogstatic.com/gen_cache/75/e0/75e0959a-edf4-43a6-ad06-3a6f39b25e6c_18x18.png",
+            "small": "https://www.kogstatic.com/gen_cache/75/e0/75e0959a-edf4-43a6-ad06-3a6f39b25e6c_46x46.png",
+            "medium": "https://www.kogstatic.com/gen_cache/75/e0/75e0959a-edf4-43a6-ad06-3a6f39b25e6c_64x64.png",
+            "large": "https://www.kogstatic.com/gen_cache/75/e0/75e0959a-edf4-43a6-ad06-3a6f39b25e6c_330x451.png"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9388
+        ],
+        "meta": {
+          "batch": "3750001to3755000"
+        }
+      }
+    }
+  ]
+}
