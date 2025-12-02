@@ -1,0 +1,65 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "24378394",
+      "username": "Retarded 1_2",
+      "found_slurs": [
+        "retarded"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4743120,
+          "score": 887,
+          "username": "Retarded 1_2",
+          "level": 0,
+          "id": 24378394,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11858
+        ],
+        "meta": {
+          "batch": "4740001to4745000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "18551792",
+      "username": "El Retarded",
+      "found_slurs": [
+        "retarded"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4869541,
+          "score": 850,
+          "username": "El Retarded",
+          "level": 0,
+          "id": 18551792,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/ac/0c/ac0c8dc1-b145-49ad-b115-5e8833911ac7_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/ac/0c/ac0c8dc1-b145-49ad-b115-5e8833911ac7_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/ac/0c/ac0c8dc1-b145-49ad-b115-5e8833911ac7_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/ac/0c/ac0c8dc1-b145-49ad-b115-5e8833911ac7_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12174
+        ],
+        "meta": {
+          "batch": "4865001to4870000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
