@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "16903318",
+      "username": "whiteNIGGER",
+      "found_slurs": [
+        "whitenigger"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4332655,
+          "score": 1025,
+          "username": "whiteNIGGER",
+          "level": 0,
+          "id": 16903318,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10832
+        ],
+        "meta": {
+          "batch": "4330001to4335000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
