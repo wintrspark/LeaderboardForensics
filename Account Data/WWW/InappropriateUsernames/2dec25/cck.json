@@ -1,0 +1,37 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "14141271",
+      "username": "bitch_i_like_cock_in_pussy",
+      "found_slurs": [
+        "bitch",
+        "cock",
+        "pussy"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4501822,
+          "score": 963,
+          "username": "bitch_i_like_cock_in_pussy",
+          "level": 0,
+          "id": 14141271,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/4a/8c/4a8c433c67474c229272313728687717_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/4a/8c/4a8c433c67474c229272313728687717_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/4a/8c/4a8c433c67474c229272313728687717_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/4a/8c/4a8c433c67474c229272313728687717_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11255
+        ],
+        "meta": {
+          "batch": "4500001to4505000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
