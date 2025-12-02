@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "51005863",
+      "username": "Smut_stuff_lover",
+      "found_slurs": [
+        "smut"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4860153,
+          "score": 850,
+          "username": "Smut_stuff_lover",
+          "level": 0,
+          "id": 51005863,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12151
+        ],
+        "meta": {
+          "batch": "4860001to4865000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
