@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "16113398",
+      "username": "TU novio sexual",
+      "found_slurs": [
+        "sexual"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4247651,
+          "score": 1060,
+          "username": "TU novio sexual",
+          "level": 0,
+          "id": 16113398,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10620
+        ],
+        "meta": {
+          "batch": "4245001to4250000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
