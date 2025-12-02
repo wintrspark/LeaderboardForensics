@@ -1,0 +1,67 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "670198572",
+      "username": "B00BS_CRUD4S",
+      "found_slurs": [
+        "boobs"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4068704,
+          "score": 1130,
+          "username": "B00BS_CRUD4S",
+          "level": 0,
+          "id": 670198572,
+          "friend_images": {
+            "original": "https://www.kogstatic.com/gen_images/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6.png",
+            "micro": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_18x18.png",
+            "small": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_46x46.png",
+            "medium": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_64x64.png",
+            "large": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_330x451.png"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10172
+        ],
+        "meta": {
+          "batch": "4065001to4070000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "14416842",
+      "username": "sexy boobs",
+      "found_slurs": [
+        "boobs",
+        "sexy"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4081247,
+          "score": 1130,
+          "username": "sexy boobs",
+          "level": 0,
+          "id": 14416842,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10204
+        ],
+        "meta": {
+          "batch": "4080001to4085000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
