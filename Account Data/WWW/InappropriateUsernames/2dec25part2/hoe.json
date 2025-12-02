@@ -1,0 +1,95 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "20522026",
+      "username": "hoe hoe hoe hoe",
+      "found_slurs": [
+        "hoe"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4633987,
+          "score": 920,
+          "username": "hoe hoe hoe hoe",
+          "level": 0,
+          "id": 20522026,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11585
+        ],
+        "meta": {
+          "batch": "4630001to4635000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "19700415",
+      "username": "MIXED.BABY_HOE",
+      "found_slurs": [
+        "hoe"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4731242,
+          "score": 890,
+          "username": "MIXED.BABY_HOE",
+          "level": 0,
+          "id": 19700415,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11829
+        ],
+        "meta": {
+          "batch": "4730001to4735000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "6957660",
+      "username": "__hoe",
+      "found_slurs": [
+        "hoe"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 5038347,
+          "score": 800,
+          "username": "__hoe",
+          "level": 0,
+          "id": 6957660,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12596
+        ],
+        "meta": {
+          "batch": "5035001to5040000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
