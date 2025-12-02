@@ -1,0 +1,65 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "668356560",
+      "username": "seby020 is a big homosexual",
+      "found_slurs": [
+        "homosexual"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4003168,
+          "score": 1160,
+          "username": "seby020 is a big homosexual",
+          "level": 0,
+          "id": 668356560,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10008
+        ],
+        "meta": {
+          "batch": "4000001to4005000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "16617360",
+      "username": "josue homosexual",
+      "found_slurs": [
+        "homosexual"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4172625,
+          "score": 1090,
+          "username": "josue homosexual",
+          "level": 0,
+          "id": 16617360,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10432
+        ],
+        "meta": {
+          "batch": "4170001to4175000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
