@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "17497047",
+      "username": "Nigger Panda",
+      "found_slurs": [
+        "nigger"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 5016928,
+          "score": 810,
+          "username": "Nigger Panda",
+          "level": 0,
+          "id": 17497047,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12543
+        ],
+        "meta": {
+          "batch": "5015001to5020000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
