@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "21845863",
+      "username": "Dr_cocks",
+      "found_slurs": [
+        "cocks"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 5066492,
+          "score": 796,
+          "username": "Dr_cocks",
+          "level": 0,
+          "id": 21845863,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12667
+        ],
+        "meta": {
+          "batch": "5065001to5070000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
