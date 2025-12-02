@@ -1,0 +1,36 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "667766838",
+      "username": "Fucking-BigTits-",
+      "found_slurs": [
+        "bigtits",
+        "fucking"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4203585,
+          "score": 1075,
+          "username": "Fucking-BigTits-",
+          "level": 0,
+          "id": 667766838,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10509
+        ],
+        "meta": {
+          "batch": "4200001to4205000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
