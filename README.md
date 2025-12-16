@@ -215,6 +215,16 @@ REQUEST_TIMEOUT = 10s
 
 ---
 
+### Verification Timeline
+| Date | Server | Action | Accounts Affected |
+|------|--------|--------|-------------------|
+| 2025-11-23 | www | Bot Account Termination | 580 |
+| 2025-11-25 | www | Inappropriate Username Account Termination | 700 |
+| 2025-12-03 | www | Inappropriate Username Account Termination | 1,400 |
+
+---
+
+
 ## ⚠️ Ethical Use & Disclaimer
 
 ### Intended Use
