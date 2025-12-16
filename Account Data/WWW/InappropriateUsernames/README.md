@@ -8,5 +8,5 @@ After December 2nd, due to the report format file type changed from `*.json` to 
 
 ``OLDFORMAT_JSON`` - Refers to a structure of `.json`. 
  > It contains two subfolders that require going through to form a report:  
- >  [2 December 2025 I](/OLDFORMAT_JSON/2dec25/),  
- >  [2 December 2025 II](/OLDFORMAT_JSON/2dec25part2/)
+ >  [2 December 2025 I](https://github.com/midweststatic/LeaderboardForensics/tree/main/Account%20Data/WWW/InappropriateUsernames/OLDFORMAT_JSON/2dec25),  
+ >  [2 December 2025 II](https://github.com/midweststatic/LeaderboardForensics/tree/main/Account%20Data/WWW/InappropriateUsernames/OLDFORMAT_JSON/2dec25part2)
