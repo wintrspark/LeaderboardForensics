@@ -224,6 +224,8 @@ REQUEST_TIMEOUT = 10s
 | 2025-12-03 | www | Inappropriate Username Account Termination | 1,400 |
 | 2025-12-23 | www | Inappropriate Username Account Termination | 85/326 |
 
+
+> XX/YY corresponds to X accounts succesfully terminated from the Y size of reported batch
 ---
 
 
